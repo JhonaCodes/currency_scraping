@@ -1,0 +1,1196 @@
+[
+  {
+    "name": "Albania",
+    "code": "AL",
+    "currency": "ALL",
+    "regex_code": "Al"
+  },
+  {
+    "name": "Andorra",
+    "code": "AD",
+    "currency": "EUR",
+    "regex_code": "An"
+  },
+  {
+    "name": "Austria",
+    "code": "AT",
+    "currency": "EUR",
+    "regex_code": "Au"
+  },
+  {
+    "name": "Belarus",
+    "code": "BY",
+    "currency": "BYN",
+    "regex_code": "Be"
+  },
+  {
+    "name": "Belgium",
+    "code": "BE",
+    "currency": "EUR",
+    "regex_code": "Be"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "BA",
+    "currency": "BAM",
+    "regex_code": "Bo"
+  },
+  {
+    "name": "Bulgaria",
+    "code": "BG",
+    "currency": "BGN",
+    "regex_code": "Bu"
+  },
+  {
+    "name": "Croatia",
+    "code": "HR",
+    "currency": "HRK",
+    "regex_code": "Cr"
+  },
+  {
+    "name": "Cyprus",
+    "code": "CY",
+    "currency": "EUR",
+    "regex_code": "Cy"
+  },
+  {
+    "name": "Czech Republic",
+    "code": "CZ",
+    "currency": "CZK",
+    "regex_code": "Cz"
+  },
+  {
+    "name": "Denmark",
+    "code": "DK",
+    "currency": "DKK",
+    "regex_code": "De"
+  },
+  {
+    "name": "Estonia",
+    "code": "EE",
+    "currency": "EUR",
+    "regex_code": "Es"
+  },
+  {
+    "name": "Finland",
+    "code": "FI",
+    "currency": "EUR",
+    "regex_code": "Fi"
+  },
+  {
+    "name": "France",
+    "code": "FR",
+    "currency": "EUR",
+    "regex_code": "Fr"
+  },
+  {
+    "name": "Germany",
+    "code": "DE",
+    "currency": "EUR",
+    "regex_code": "Ge"
+  },
+  {
+    "name": "Greece",
+    "code": "GR",
+    "currency": "EUR",
+    "regex_code": "Gr"
+  },
+  {
+    "name": "Hungary",
+    "code": "HU",
+    "currency": "HUF",
+    "regex_code": "Hu"
+  },
+  {
+    "name": "Iceland",
+    "code": "IS",
+    "currency": "ISK",
+    "regex_code": "Ic"
+  },
+  {
+    "name": "Ireland",
+    "code": "IE",
+    "currency": "EUR",
+    "regex_code": "Ir"
+  },
+  {
+    "name": "Italy",
+    "code": "IT",
+    "currency": "EUR",
+    "regex_code": "It"
+  },
+  {
+    "name": "Latvia",
+    "code": "LV",
+    "currency": "EUR",
+    "regex_code": "La"
+  },
+  {
+    "name": "Liechtenstein",
+    "code": "LI",
+    "currency": "CHF",
+    "regex_code": "Li"
+  },
+  {
+    "name": "Lithuania",
+    "code": "LT",
+    "currency": "EUR",
+    "regex_code": "Li"
+  },
+  {
+    "name": "Luxembourg",
+    "code": "LU",
+    "currency": "EUR",
+    "regex_code": "Lu"
+  },
+  {
+    "name": "Malta",
+    "code": "MT",
+    "currency": "EUR",
+    "regex_code": "Ma"
+  },
+  {
+    "name": "Moldova, Republic of",
+    "code": "MD",
+    "currency": "MDL",
+    "regex_code": "Mo"
+  },
+  {
+    "name": "Monaco",
+    "code": "MC",
+    "currency": "EUR",
+    "regex_code": "Mo"
+  },
+  {
+    "name": "Montenegro",
+    "code": "ME",
+    "currency": "EUR",
+    "regex_code": "Mo"
+  },
+  {
+    "name": "Netherlands",
+    "code": "NL",
+    "currency": "EUR",
+    "regex_code": "Ne"
+  },
+  {
+    "name": "North Macedonia",
+    "code": "MK",
+    "currency": "MKD",
+    "regex_code": "No"
+  },
+  {
+    "name": "Norway",
+    "code": "NO",
+    "currency": "NOK",
+    "regex_code": "No"
+  },
+  {
+    "name": "Poland",
+    "code": "PL",
+    "currency": "PLN",
+    "regex_code": "Po"
+  },
+  {
+    "name": "Portugal",
+    "code": "PT",
+    "currency": "EUR",
+    "regex_code": "Po"
+  },
+  {
+    "name": "Romania",
+    "code": "RO",
+    "currency": "RON",
+    "regex_code": "Ro"
+  },
+  {
+    "name": "Russian Federation",
+    "code": "RU",
+    "currency": "RUB",
+    "regex_code": "Ru"
+  },
+  {
+    "name": "San Marino",
+    "code": "SM",
+    "currency": "EUR",
+    "regex_code": "Sa"
+  },
+  {
+    "name": "Serbia",
+    "code": "RS",
+    "currency": "RSD",
+    "regex_code": "Se"
+  },
+  {
+    "name": "Slovakia",
+    "code": "SK",
+    "currency": "EUR",
+    "regex_code": "Sl"
+  },
+  {
+    "name": "Slovenia",
+    "code": "SI",
+    "currency": "EUR",
+    "regex_code": "Sl"
+  },
+  {
+    "name": "Spain",
+    "code": "ES",
+    "currency": "EUR",
+    "regex_code": "Sp"
+  },
+  {
+    "name": "Sweden",
+    "code": "SE",
+    "currency": "SEK",
+    "regex_code": "Sw"
+  },
+  {
+    "name": "Switzerland",
+    "code": "CH",
+    "currency": "CHF",
+    "regex_code": "Sw"
+  },
+  {
+    "name": "Turkey",
+    "code": "TR",
+    "currency": "TRY",
+    "regex_code": "Tu"
+  },
+  {
+    "name": "Ukraine",
+    "code": "UA",
+    "currency": "UAH",
+    "regex_code": "Uk"
+  },
+  {
+    "name": "United Kingdom",
+    "code": "GB",
+    "currency": "GBP",
+    "regex_code": "Un"
+  },
+  {
+    "name": "Vatican City State",
+    "code": "VA",
+    "currency": "EUR",
+    "regex_code": "Va"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "code": "SJ",
+    "currency": "NOK",
+    "regex_code": "Sv"
+  },
+  {
+    "name": "Faroe Islands",
+    "code": "FO",
+    "currency": "DKK",
+    "regex_code": "Fa"
+  },
+  {
+    "name": "Gibraltar",
+    "code": "GI",
+    "currency": "GIP",
+    "regex_code": "Gi"
+  },
+  {
+    "name": "Guernsey",
+    "code": "GG",
+    "currency": "GBP",
+    "regex_code": "Gu"
+  },
+  {
+    "name": "Australia",
+    "code": "AU",
+    "currency": "AUD",
+    "regex_code": "Au"
+  },
+  {
+    "name": "Fiji",
+    "code": "FJ",
+    "currency": "FJD",
+    "regex_code": "Fi"
+  },
+  {
+    "name": "Kiribati",
+    "code": "KI",
+    "currency": "AUD",
+    "regex_code": "Au"
+  },
+  {
+    "name": "Marshall Islands",
+    "code": "MH",
+    "currency": "USD",
+    "regex_code": "US"
+  },
+  {
+    "name": "Micronesia (Federated States of)",
+    "code": "FM",
+    "currency": "USD",
+    "regex_code": "US"
+  },
+  {
+    "name": "Nauru",
+    "code": "NR",
+    "currency": "AUD",
+    "regex_code": "Au"
+  },
+  {
+    "name": "New Zealand",
+    "code": "NZ",
+    "currency": "NZD",
+    "regex_code": "Ne"
+  },
+  {
+    "name": "Palau",
+    "code": "PW",
+    "currency": "USD",
+    "regex_code": "US"
+  },
+  {
+    "name": "Papua New Guinea",
+    "code": "PG",
+    "currency": "PGK",
+    "regex_code": "Pa"
+  },
+  {
+    "name": "Samoa",
+    "code": "WS",
+    "currency": "WST",
+    "regex_code": "Sa"
+  },
+  {
+    "name": "Solomon Islands",
+    "code": "SB",
+    "currency": "SBD",
+    "regex_code": "So"
+  },
+  {
+    "name": "Tonga",
+    "code": "TO",
+    "currency": "TOP",
+    "regex_code": "To"
+  },
+  {
+    "name": "Tuvalu",
+    "code": "TV",
+    "currency": "AUD",
+    "regex_code": "Au"
+  },
+  {
+    "name": "Vanuatu",
+    "code": "VU",
+    "currency": "VUV",
+    "regex_code": "Va"
+  },
+  {
+    "name": "Argentina",
+    "code": "AR",
+    "currency": "ARS",
+    "regex_code": "AR"
+  },
+  {
+    "name": "Bolivia",
+    "code": "BO",
+    "currency": "BOB",
+    "regex_code": "Bo"
+  },
+  {
+    "name": "Brazil",
+    "code": "BR",
+    "currency": "BRL",
+    "regex_code": "Br"
+  },
+  {
+    "name": "Chile",
+    "code": "CL",
+    "currency": "CLP",
+    "regex_code": "Ch"
+  },
+  {
+    "name": "Colombia",
+    "code": "CO",
+    "currency": "COP",
+    "regex_code": "Co"
+  },
+  {
+    "name": "Ecuador",
+    "code": "EC",
+    "currency": "USD",
+    "regex_code": "US"
+  },
+  {
+    "name": "Guyana",
+    "code": "GY",
+    "currency": "GYD",
+    "regex_code": "Gu"
+  },
+  {
+    "name": "Paraguay",
+    "code": "PY",
+    "currency": "PYG",
+    "regex_code": "Pa"
+  },
+  {
+    "name": "Peru",
+    "code": "PE",
+    "currency": "PEN",
+    "regex_code": "Sol"
+  },
+  {
+    "name": "Suriname",
+    "code": "SR",
+    "currency": "SRD",
+    "regex_code": "Su"
+  },
+  {
+    "name": "Uruguay",
+    "code": "UY",
+    "currency": "UYU",
+    "regex_code": "UYU"
+  },
+  {
+    "name": "Venezuela",
+    "code": "VE",
+    "currency": "VES",
+    "regex_code": "VE"
+  },
+  {
+    "name": "Belize",
+    "code": "BZ",
+    "currency": "BZD",
+    "regex_code": "BZ"
+  },
+  {
+    "name": "Costa Rica",
+    "code": "CR",
+    "currency": "CRC",
+    "regex_code": "Co"
+  },
+  {
+    "name": "El Salvador",
+    "code": "SV",
+    "currency": "USD",
+    "regex_code": "US"
+  },
+  {
+    "name": "Guatemala",
+    "code": "GT",
+    "currency": "GTQ",
+    "regex_code": "Gu"
+  },
+  {
+    "name": "Honduras",
+    "code": "HN",
+    "currency": "HNL",
+    "regex_code": "Ho"
+  },
+  {
+    "name": "Nicaragua",
+    "code": "NI",
+    "currency": "NIO",
+    "regex_code": "Ni"
+  },
+  {
+    "name": "Panama",
+    "code": "PA",
+    "currency": "PAB",
+    "regex_code": "Pa"
+  },
+  {
+    "name": "Canada",
+    "code": "CA",
+    "currency": "CAD",
+    "regex_code": "CA"
+  },
+  {
+    "name": "United States",
+    "code": "US",
+    "currency": "USD",
+    "regex_code": "US"
+  },
+  {
+    "name": "Mexico",
+    "code": "MX",
+    "currency": "MXN",
+    "regex_code": "Me"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "code": "AG",
+    "currency": "XCD",
+    "regex_code": "Ea"
+  },
+  {
+    "name": "Bahamas",
+    "code": "BS",
+    "currency": "BSD",
+    "regex_code": "Ba"
+  },
+  {
+    "name": "Barbados",
+    "code": "BB",
+    "currency": "BBD",
+    "regex_code": "Ba"
+  },
+  {
+    "name": "Cuba",
+    "code": "CU",
+    "currency": "CUP",
+    "regex_code": "Cu"
+  },
+  {
+    "name": "Dominican Republic",
+    "code": "DO",
+    "currency": "DOP",
+    "regex_code": "Dominican"
+  },
+  {
+    "name": "Dominica",
+    "code": "DM",
+    "currency": "XCD",
+    "regex_code": "East Caribbean"
+  },
+  {
+    "name": "Grenada",
+    "code": "GD",
+    "currency": "XCD",
+    "regex_code": "East Caribbean"
+  },
+  {
+    "name": "Haiti",
+    "code": "HT",
+    "currency": "HTG",
+    "regex_code": "Ha"
+  },
+  {
+    "name": "Jamaica",
+    "code": "JM",
+    "currency": "JMD",
+    "regex_code": "Ja"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "code": "KN",
+    "currency": "XCD",
+    "regex_code": "East Caribbean"
+  },
+  {
+    "name": "Saint Lucia",
+    "code": "LC",
+    "currency": "XCD",
+    "regex_code": "East Caribbean"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "currency": "XCD",
+    "regex_code": "East Caribbean"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "code": "TT",
+    "currency": "TTD",
+    "regex_code": "Tr"
+  },
+  {
+    "name": "Algeria",
+    "code": "DZ",
+    "currency": "DZD",
+    "regex_code": "Al"
+  },
+  {
+    "name": "Angola",
+    "code": "AO",
+    "currency": "AOA",
+    "regex_code": "An"
+  },
+  {
+    "name": "Benin",
+    "code": "BJ",
+    "currency": "XOF",
+    "regex_code": "Be"
+  },
+  {
+    "name": "Botswana",
+    "code": "BW",
+    "currency": "BWP",
+    "regex_code": "Bo"
+  },
+  {
+    "name": "Afghanistan",
+    "code": "AF",
+    "currency": "AFN",
+    "regex_code": "Af"
+  },
+  {
+    "name": "Armenia",
+    "code": "AM",
+    "currency": "AMD",
+    "regex_code": "Ar"
+  },
+  {
+    "name": "Azerbaijan",
+    "code": "AZ",
+    "currency": "AZN",
+    "regex_code": "Az"
+  },
+  {
+    "name": "Bahrain",
+    "code": "BH",
+    "currency": "BHD",
+    "regex_code": "Ba"
+  },
+  {
+    "name": "Bangladesh",
+    "code": "BD",
+    "currency": "BDT",
+    "regex_code": "Ba"
+  },
+  {
+    "name": "Bhutan",
+    "code": "BT",
+    "currency": "BTN",
+    "regex_code": "Bh"
+  },
+  {
+    "name": "Brunei Darussalam",
+    "code": "BN",
+    "currency": "BND",
+    "regex_code": "Br"
+  },
+  {
+    "name": "Cambodia",
+    "code": "KH",
+    "currency": "KHR",
+    "regex_code": "Ca"
+  },
+  {
+    "name": "China",
+    "code": "CN",
+    "currency": "CNY",
+    "regex_code": "Ch"
+  },
+  {
+    "name": "Georgia",
+    "code": "GE",
+    "currency": "GEL",
+    "regex_code": "Ge"
+  },
+  {
+    "name": "India",
+    "code": "IN",
+    "currency": "INR",
+    "regex_code": "In"
+  },
+  {
+    "name": "Indonesia",
+    "code": "ID",
+    "currency": "IDR",
+    "regex_code": "In"
+  },
+  {
+    "name": "Iran (Islamic Republic of)",
+    "code": "IR",
+    "currency": "IRR",
+    "regex_code": "Ir"
+  },
+  {
+    "name": "Iraq",
+    "code": "IQ",
+    "currency": "IQD",
+    "regex_code": "Ir"
+  },
+  {
+    "name": "Israel",
+    "code": "IL",
+    "currency": "ILS",
+    "regex_code": "Is"
+  },
+  {
+    "name": "Japan",
+    "code": "JP",
+    "currency": "JPY",
+    "regex_code": "Ja"
+  },
+  {
+    "name": "Jordan",
+    "code": "JO",
+    "currency": "JOD",
+    "regex_code": "Jo"
+  },
+  {
+    "name": "Kazakhstan",
+    "code": "KZ",
+    "currency": "KZT",
+    "regex_code": "Ka"
+  },
+  {
+    "name": "Kuwait",
+    "code": "KW",
+    "currency": "KWD",
+    "regex_code": "Ku"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "code": "KG",
+    "currency": "KGS",
+    "regex_code": "Ky"
+  },
+  {
+    "name": "Lao People's Democratic Republic",
+    "code": "LA",
+    "currency": "LAK",
+    "regex_code": "La"
+  },
+  {
+    "name": "Lebanon",
+    "code": "LB",
+    "currency": "LBP",
+    "regex_code": "Le"
+  },
+  {
+    "name": "Malaysia",
+    "code": "MY",
+    "currency": "MYR",
+    "regex_code": "Ma"
+  },
+  {
+    "name": "Maldives",
+    "code": "MV",
+    "currency": "MVR",
+    "regex_code": "Ma"
+  },
+  {
+    "name": "Mongolia",
+    "code": "MN",
+    "currency": "MNT",
+    "regex_code": "Mo"
+  },
+  {
+    "name": "Myanmar",
+    "code": "MM",
+    "currency": "MMK",
+    "regex_code": "My"
+  },
+  {
+    "name": "Nepal",
+    "code": "NP",
+    "currency": "NPR",
+    "regex_code": "Ne"
+  },
+  {
+    "name": "North Korea",
+    "code": "KP",
+    "currency": "KPW",
+    "regex_code": "No"
+  },
+  {
+    "name": "Oman",
+    "code": "OM",
+    "currency": "OMR",
+    "regex_code": "Om"
+  },
+  {
+    "name": "Pakistan",
+    "code": "PK",
+    "currency": "PKR",
+    "regex_code": "Pa"
+  },
+  {
+    "name": "Palestine, State of",
+    "code": "PS",
+    "currency": "ILS",
+    "regex_code": "Pa"
+  },
+  {
+    "name": "Philippines",
+    "code": "PH",
+    "currency": "PHP",
+    "regex_code": "Ph"
+  },
+  {
+    "name": "Qatar",
+    "code": "QA",
+    "currency": "QAR",
+    "regex_code": "Qa"
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "SA",
+    "currency": "SAR",
+    "regex_code": "Sa"
+  },
+  {
+    "name": "Singapore",
+    "code": "SG",
+    "currency": "SGD",
+    "regex_code": "Si"
+  },
+  {
+    "name": "South Korea",
+    "code": "KR",
+    "currency": "KRW",
+    "regex_code": "So"
+  },
+  {
+    "name": "Sri Lanka",
+    "code": "LK",
+    "currency": "LKR",
+    "regex_code": "Sr"
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "code": "SY",
+    "currency": "SYP",
+    "regex_code": "Sy"
+  },
+  {
+    "name": "Tajikistan",
+    "code": "TJ",
+    "currency": "TJS",
+    "regex_code": "Ta"
+  },
+  {
+    "name": "Thailand",
+    "code": "TH",
+    "currency": "THB",
+    "regex_code": "Th"
+  },
+  {
+    "name": "Timor-Leste",
+    "code": "TL",
+    "currency": "USD",
+    "regex_code": "Ti"
+  },
+  {
+    "name": "Turkmenistan",
+    "code": "TM",
+    "currency": "TMT",
+    "regex_code": "Tu"
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "AE",
+    "currency": "AED",
+    "regex_code": "Un"
+  },
+  {
+    "name": "Uzbekistan",
+    "code": "UZ",
+    "currency": "UZS",
+    "regex_code": "Uz"
+  },
+  {
+    "name": "Viet Nam",
+    "code": "VN",
+    "currency": "VND",
+    "regex_code": "Vi"
+  },
+  {
+    "name": "Yemen",
+    "code": "YE",
+    "currency": "YER",
+    "regex_code": "Ye"
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "BF",
+    "currency": "XOF",
+    "regex_code": "Bu"
+  },
+  {
+    "name": "Burundi",
+    "code": "BI",
+    "currency": "BIF",
+    "regex_code": "Bu"
+  },
+  {
+    "name": "Cabo Verde",
+    "code": "CV",
+    "currency": "CVE",
+    "regex_code": "Ca"
+  },
+  {
+    "name": "Cameroon",
+    "code": "CM",
+    "currency": "XAF",
+    "regex_code": "Ca"
+  },
+  {
+    "name": "Central African Republic",
+    "code": "CF",
+    "currency": "XAF",
+    "regex_code": "Ce"
+  },
+  {
+    "name": "Chad",
+    "code": "TD",
+    "currency": "XAF",
+    "regex_code": "Ch"
+  },
+  {
+    "name": "Comoros",
+    "code": "KM",
+    "currency": "KMF",
+    "regex_code": "Co"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "code": "CD",
+    "currency": "CDF",
+    "regex_code": "De"
+  },
+  {
+    "name": "Djibouti",
+    "code": "DJ",
+    "currency": "DJF",
+    "regex_code": "Dj"
+  },
+  {
+    "name": "Egypt",
+    "code": "EG",
+    "currency": "EGP",
+    "regex_code": "Eg"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "code": "GQ",
+    "currency": "XAF",
+    "regex_code": "Eq"
+  },
+  {
+    "name": "Eritrea",
+    "code": "ER",
+    "currency": "ERN",
+    "regex_code": "Er"
+  },
+  {
+    "name": "Eswatini",
+    "code": "SZ",
+    "currency": "SZL",
+    "regex_code": "Es"
+  },
+  {
+    "name": "Ethiopia",
+    "code": "ET",
+    "currency": "ETB",
+    "regex_code": "Et"
+  },
+  {
+    "name": "Gabon",
+    "code": "GA",
+    "currency": "XAF",
+    "regex_code": "Ga"
+  },
+  {
+    "name": "Gambia",
+    "code": "GM",
+    "currency": "GMD",
+    "regex_code": "Ga"
+  },
+  {
+    "name": "Ghana",
+    "code": "GH",
+    "currency": "GHS",
+    "regex_code": "Gh"
+  },
+  {
+    "name": "Guinea",
+    "code": "GN",
+    "currency": "GNF",
+    "regex_code": "Gu"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "code": "GW",
+    "currency": "XOF",
+    "regex_code": "Gu"
+  },
+  {
+    "name": "Ivory Coast",
+    "code": "CI",
+    "currency": "XOF",
+    "regex_code": "Iv"
+  },
+  {
+    "name": "Kenya",
+    "code": "KE",
+    "currency": "KES",
+    "regex_code": "Ke"
+  },
+  {
+    "name": "Lesotho",
+    "code": "LS",
+    "currency": "LSL",
+    "regex_code": "Le"
+  },
+  {
+    "name": "Liberia",
+    "code": "LR",
+    "currency": "LRD",
+    "regex_code": "Li"
+  },
+  {
+    "name": "Libya",
+    "code": "LY",
+    "currency": "LYD",
+    "regex_code": "Li"
+  },
+  {
+    "name": "Madagascar",
+    "code": "MG",
+    "currency": "MGA",
+    "regex_code": "Ma"
+  },
+  {
+    "name": "Malawi",
+    "code": "MW",
+    "currency": "MWK",
+    "regex_code": "Ma"
+  },
+  {
+    "name": "Mali",
+    "code": "ML",
+    "currency": "XOF",
+    "regex_code": "Ma"
+  },
+  {
+    "name": "Mauritania",
+    "code": "MR",
+    "currency": "MRU",
+    "regex_code": "Ma"
+  },
+  {
+    "name": "Mauritius",
+    "code": "MU",
+    "currency": "MUR",
+    "regex_code": "Ma"
+  },
+  {
+    "name": "Morocco",
+    "code": "MA",
+    "currency": "MAD",
+    "regex_code": "Mo"
+  },
+  {
+    "name": "Mozambique",
+    "code": "MZ",
+    "currency": "MZN",
+    "regex_code": "Mo"
+  },
+  {
+    "name": "Namibia",
+    "code": "NA",
+    "currency": "NAD",
+    "regex_code": "Na"
+  },
+  {
+    "name": "Niger",
+    "code": "NE",
+    "currency": "XOF",
+    "regex_code": "Ni"
+  },
+  {
+    "name": "Nigeria",
+    "code": "NG",
+    "currency": "NGN",
+    "regex_code": "Ni"
+  },
+  {
+    "name": "Republic of the Congo",
+    "code": "CG",
+    "currency": "XAF",
+    "regex_code": "Re"
+  },
+  {
+    "name": "Rwanda",
+    "code": "RW",
+    "currency": "RWF",
+    "regex_code": "Rw"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "code": "ST",
+    "currency": "STN",
+    "regex_code": "Sa"
+  },
+  {
+    "name": "Senegal",
+    "code": "SN",
+    "currency": "XOF",
+    "regex_code": "Se"
+  },
+  {
+    "name": "Seychelles",
+    "code": "SC",
+    "currency": "SCR",
+    "regex_code": "Se"
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "SL",
+    "currency": "SLL",
+    "regex_code": "Si"
+  },
+  {
+    "name": "Somalia",
+    "code": "SO",
+    "currency": "SOS",
+    "regex_code": "So"
+  },
+  {
+    "name": "South Africa",
+    "code": "ZA",
+    "currency": "ZAR",
+    "regex_code": "So"
+  },
+  {
+    "name": "South Sudan",
+    "code": "SS",
+    "currency": "SSP",
+    "regex_code": "So"
+  },
+  {
+    "name": "Sudan",
+    "code": "SD",
+    "currency": "SDG",
+    "regex_code": "Su"
+  },
+  {
+    "name": "Tanzania",
+    "code": "TZ",
+    "currency": "TZS",
+    "regex_code": "Ta"
+  },
+  {
+    "name": "Togo",
+    "code": "TG",
+    "currency": "XOF",
+    "regex_code": "To"
+  },
+  {
+    "name": "Tunisia",
+    "code": "TN",
+    "currency": "TND",
+    "regex_code": "Tu"
+  },
+  {
+    "name": "Uganda",
+    "code": "UG",
+    "currency": "UGX",
+    "regex_code": "Ug"
+  },
+  {
+    "name": "Zambia",
+    "code": "ZM",
+    "currency": "ZMW",
+    "regex_code": "Za"
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "ZW",
+    "currency": "ZWL",
+    "regex_code": "Zi"
+  }
+]
